@@ -1,0 +1,107 @@
+
+body{
+	background-color:  #dedc80 ;
+}
+#table1{
+	background:  #aef064 ;
+}
+#navbar{
+
+	float: right;
+	margin-top: 20px;
+	height: 15px;
+}
+
+#moi{
+	height: 200px;
+	margin-top: 100px;
+
+}
+#nom{
+	float: left;
+	margin-top: 20px;
+}
+#photo{
+	float:center;
+	padding: 100px;
+	margin-left: 600px;
+	
+	
+}
+#about-me1{
+	float: left;
+	margin-top: 20px;
+	background:  #aef064 ;
+	width: 100%;
+}
+#about-me2{
+	padding-left: 600px; 
+	width:50%;
+	height: 20px;
+	padding-bottom: 50px;
+	background:  #aef064 ;
+}
+.diplome{
+	background: #64f0bf;
+	float: left;
+	margin:100px;
+	padding: 100px;
+	margin-left: 600px;
+	width: 50%;
+}
+ .flex-container {
+  display: flex;
+
+      
+}
+
+
+}
+ .flex-container1{
+  display: flex;
+flex-direction: column;
+      
+}
+
+.table-competence{
+	float: center;
+	margin:100px;
+	padding: 100px;
+	margin-right: : 600px;
+
+}
+#compétence{
+	float: center;
+	margin:100px;
+	padding: 100px;
+	margin-right: : 600px;
+
+}
+
+#experience{
+
+	float: center;
+	margin:100px;
+	padding: 100px;
+	margin-right: : 600px;
+}
+
+#logo{
+	width:50px;
+	height: 50px;
+	margin: 20px;
+}
+#phar1{
+
+
+}
+#phar2{
+
+margin-left: 300px;
+}
+.qualité {
+	float: right;
+}
+.Contact{
+	float: center;
+}
